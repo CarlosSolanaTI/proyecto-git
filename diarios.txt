@@ -2,4 +2,6 @@
 2.- Actualizado diario Sarosi
 3.- Tu diario
 4.- Agregando funcionalidades
-5. Mejorando ek diario
+5. Mejorando e diario
+6. Arreglando errores y bugs
+7. Dejandolo al 100
