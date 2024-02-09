@@ -1,3 +1,5 @@
 1.- Creado diario
 2.- Actualizado diario Sarosi
 3.- Tu diario
+4.- Agregando funcionalidades
+5. Mejorando ek diario
